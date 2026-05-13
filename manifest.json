@@ -1,0 +1,26 @@
+{
+  "name": "TripCraft",
+  "short_name": "TripCraft",
+  "description": "Plan, organise and carry your trip itinerary",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f8f7f4",
+  "theme_color": "#b87d0a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["travel", "productivity"],
+  "lang": "en"
+}
